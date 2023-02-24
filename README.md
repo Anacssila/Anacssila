@@ -8,5 +8,5 @@
 - ⚡ Fun fact:  Técnica em administração pelo senac, curso concluído em 2020.
 
 <div align="center">
-  <a href="https://github.com/Anacssila
+  <a href="https://github.com/Anacssila">
 </div>
