@@ -9,6 +9,4 @@
 
 <div align="center">
   <a href="https://github.com/Anacssila">
-</div>
 
-<div style="display: inline_pink>  
